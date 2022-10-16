@@ -9,9 +9,7 @@ One of the prevalent methods of image forgery is copy-move, where one or more re
 
 1) Please cite the following paper:
 
-Mehrad Aria, Mahdi Hashemzadeh, Nacer Farajzadeh, "QDL-CMFD: a Quality-independent and Deep Learning-based Copy-Move image Forgery Detection method," Neurocomputing, 2021, (Under review).
-
-*The use of code and dataset is not possible until this article is published.
+M. Aria, M. Hashemzadeh, and N. Farajzadeh, "QDL-CMFD: A Quality-independent and Deep Learning-based Copy-Move image Forgery Detection method," Neurocomputing, vol. 511, pp. 213-236, 2022/10/28/ 2022, doi: https://doi.org/10.1016/j.neucom.2022.09.017.
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
