@@ -8,7 +8,9 @@ One of the prevalent methods of image forgery is copy-move, where one or more re
 
 ## Train/Inference
 You may use this [notbook](https://github.com/MehradAria/QDL-CMFD/blob/main/QDL-CMFD.ipynb), inference is as simple as:
-```
+
+```shell
+# Example
 pred = QDLCMFD_decoder(model, image)
 ```
 
