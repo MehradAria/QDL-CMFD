@@ -7,24 +7,27 @@ One of the prevalent methods of image forgery is copy-move, where one or more re
 ![QDL-CMFD Approach](https://raw.githubusercontent.com/MehradAria/SR-DCMFD/main/Method.jpg)
 
 ## Train/Inference
-You may use this [notbook](https://github.com/MehradAria/QDL-CMFD/blob/main/QDL-CMFD.ipynb), inference is as simple as:
+You may use [QDL-CMFD.ipynb](https://github.com/MehradAria/QDL-CMFD/blob/main/QDL-CMFD.ipynb), inference is as simple as:
 
 ```shell
 # Example
 pred = QDLCMFD_decoder(model, image)
 ```
 
+---
 ### Data / pre-trained model availability:
-> Model/Data is not publicly available at this moment.
+- Model/Data is not publicly available at this moment.
 
+---
 ### Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
-
-> Aria M, Hashemzadeh M, Farajzadeh N. “QDL-CMFD: a Quality-independent and Deep Learning-based Copy-Move image Forgery Detection method”.
+```
+Aria M, Hashemzadeh M, Farajzadeh N.
+“QDL-CMFD: a Quality-independent and Deep Learning-based Copy-Move image Forgery Detection method”.
 Neurocomputing. 2022; 511:213-36.
 DOI: [10.1016/j.neucom.2022.09.017](https://doi.org/10.1016/j.neucom.2022.09.017)
+```
 
 2) Please do not distribute the database or source codes to others without the authorization from authors.
-
-> Authors’ Emails: mehrad.aria[at]shirazu.ac.ir (M. Aria), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: `mehrad.aria[at]shirazu.ac.ir` (M. Aria), `hashemzadeh[at]azaruniv.ac.ir` (M. Hashemzadeh).
